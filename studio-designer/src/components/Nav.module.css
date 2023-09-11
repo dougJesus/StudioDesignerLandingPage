@@ -1,3 +1,24 @@
-.nav h1{
-    font-size: 40px;
+.logo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo img{
+    cursor: pointer;
+}
+.logo ul{
+    list-style-type: none;
+}
+.nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+}
+.nav li{
+    cursor: pointer;
+    font-size: 16px;
+    padding: 1rem;
+}
+.nav li:hover{
+    color: rgb(195, 199, 202);
 }
