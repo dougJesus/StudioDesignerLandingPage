@@ -13,14 +13,8 @@ function App() {
     <div className="App">
       <Nav></Nav>
       <Post></Post>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
+      <br/>
+      <br/>
       <Clients></Clients>
       <br></br>
       <br></br>
