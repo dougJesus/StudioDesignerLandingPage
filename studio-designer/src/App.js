@@ -12,14 +12,6 @@ function App() {
   return (
     <div className="App">
       <Nav></Nav>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
-      <br></br>
       <Post></Post>
       <br></br>
       <br></br>
