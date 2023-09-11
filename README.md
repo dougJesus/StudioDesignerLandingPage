@@ -17,5 +17,7 @@ Meu processo para criação desse site foi:
 
 4. Agora fui para a parte do componente Post.js, onde criei outro componente que dei o nome de button, alías sabendo que eu iria reutilizar mais a frente no site pois nesse projeto existem dois buttons.
 5. Estilizei o button com um box shedow e um hover que da uma sensação mais estilosa para o botão. Por fim coloquei a imagem que faltava e um breve texto, praticamente terminado o componente Post.js.
+
+6. Com o componente anterior finalizado, começei o componente Clients.js, onde adicionei mais algumas imagens ao projeto. Apliquei um display flex, e um justify-content space evenly para poder deixar todas as imagens lado a lado. E coloquei um tamanho padrão para elas. Nessa seção adicionei também um texto e um paragrafo com a estilização padrão que estou utizando.E assim finalizei mais um componente.
    
-6.Com o componente anterior finalizado, começei o componente Clients.js, onde adicionei mais algumas imagens ao projeto. Apliquei um display flex, e um justify-content space evenly para poder deixar todas as imagens lado a lado. E coloquei um tamanho padrão para elas. Nessa seção adicionei também um texto e um paragrafo com a estilização padrão que estou utizando.E assim finalizei mais um componente.
+  
