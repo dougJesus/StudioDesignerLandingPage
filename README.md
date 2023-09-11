@@ -14,3 +14,6 @@ Meu processo para criação desse site foi:
 
 2. Comecei a mexer primeiro no componente Nav.js onde criei o menu de navegação com 6 itens mais a logo do site.
 3. Estilizei conforme o meu gosto por esse ser um projeto só para treinar minhas habilidades em react.
+
+4. Agora fui para a parte do componente Post.js, onde criei outro componente que dei o nome de button, alías sabendo que eu iria reutilizar mais a frente no site pois nesse projeto existem dois buttons.
+5. Estilizei o button com um box shedow e um hover que da uma sensação mais estilosa para o botão. Por fim coloquei a imagem que faltava e um breve texto, praticamente terminado o componente Post.js.
