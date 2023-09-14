@@ -1,12 +1,9 @@
-.container{
-    display: flex;
-    justify-content: space-around;
-}
+
 .products{
-    background-color: #FFF5DB;
-    display:flex;
-    padding: 5rem;
-    margin: 5rem;   
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+    background-color: #E7F0FC;
 }
 .container strong{
     font-size: 40px;
