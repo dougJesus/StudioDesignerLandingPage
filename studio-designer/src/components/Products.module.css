@@ -1,3 +1,16 @@
-.products h1{
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.products{
+    background-color: #FFF5DB;
+    display:flex;
+    padding: 5rem;
+    margin: 5rem;   
+}
+.container strong{
     font-size: 40px;
+}
+.container p{
+    font-size: 16px;
 }
