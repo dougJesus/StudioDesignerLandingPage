@@ -1,3 +1,13 @@
+.video{
+   display: flex;
+   justify-content: space-evenly;
+}
 .video h1{
     font-size: 40px;
+    text-align: left;
+    margin-top: 5rem;
+}
+.video p{
+    font-size: 16px;
+    text-align: left;
 }
