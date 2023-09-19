@@ -23,6 +23,8 @@ Meu processo para criação desse site foi:
 6. Com o componente anterior finalizado, começei o componente Clients.js, onde adicionei mais algumas imagens ao projeto. Apliquei um display flex, e um justify-content space evenly para poder deixar todas as imagens lado a lado. E coloquei um tamanho padrão para elas. Nessa seção adicionei também um texto e um paragrafo com a estilização padrão que estou utizando.E assim finalizei mais um componente.
 
 7. Inicei a seção Products.js, onde tive que criar um componente que coloquei o nome de Card.js, nesse card adicionei mais 4 imagens ao projeto e alinhei ele na pagina com um display flex e um justify evenly para ajustar todos um ao lado do outro na mesma medida. Esse componente eu optei ulizar no Products.js que também adicionei mais 4 imagens de logo de empresas famosas. Alinhei todas uma ao lado da outra e no inicio coloquei um texto explicando o que era. Assim finalizei a seção Products.js.
+
+8. Agora começei o componente Video.js, onde adicionei mais uma imagem no projeto e dois textos ao lado.. estilizei com um tamaho padrão que ja venho utilizando do protótipo do figma e alinhei esses textos ao lado da imagem com um diplay flex seguido do justify-content space-evenly.E assim finalizando esse componente.
    
 
   
