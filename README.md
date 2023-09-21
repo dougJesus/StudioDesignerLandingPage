@@ -25,6 +25,8 @@ Meu processo para criação desse site foi:
 7. Inicei a seção Products.js, onde tive que criar um componente que coloquei o nome de Card.js, nesse card adicionei mais 4 imagens ao projeto e alinhei ele na pagina com um display flex e um justify evenly para ajustar todos um ao lado do outro na mesma medida. Esse componente eu optei ulizar no Products.js que também adicionei mais 4 imagens de logo de empresas famosas. Alinhei todas uma ao lado da outra e no inicio coloquei um texto explicando o que era. Assim finalizei a seção Products.js.
 
 8. Agora começei o componente Video.js, onde adicionei mais uma imagem no projeto e dois textos ao lado.. estilizei com um tamaho padrão que ja venho utilizando do protótipo do figma e alinhei esses textos ao lado da imagem com um diplay flex seguido do justify-content space-evenly.E assim finalizando esse componente.
+
+9. Agora começei o componente Happy.js.. onde coloquei uma seção de clientes contentes.. adicionei mais duas imagens ao projeto e uns dois textos.. onde estilizei e utilizei as div para pode colocar cada coisa no seu devido lugar ..assim encerrando esse componente com sucesso.
    
 
   
