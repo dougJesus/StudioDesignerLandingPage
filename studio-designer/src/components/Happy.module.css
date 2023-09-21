@@ -1,3 +1,23 @@
+
 .happy h1{
-    font-size: 40px;
+    font-size: 41px;
+}
+.happy p{
+    font-size: 18px;
+}
+.outdoor{
+   border-radius: 40px;
+   background-color: #E7F0FC;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+}
+.outdoor h2{
+    font-size: 24px;
+    margin-top: 5rem;
+    text-align: left;
+}
+.outdoor p{
+    font-size: 16px;
+    text-align: left;
 }
