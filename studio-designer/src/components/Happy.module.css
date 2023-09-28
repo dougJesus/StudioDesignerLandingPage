@@ -6,7 +6,6 @@
     font-size: 18px;
 }
 .outdoor{
-   border-radius: 40px;
    background-color: #E7F0FC;
    display: flex;
    justify-content: space-evenly;
@@ -14,7 +13,7 @@
 }
 .outdoor h2{
     font-size: 24px;
-    margin-top: 5rem;
+    margin-top: 0.1rem;
     text-align: left;
 }
 .outdoor p{
