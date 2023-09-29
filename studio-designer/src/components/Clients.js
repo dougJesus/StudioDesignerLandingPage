@@ -24,7 +24,7 @@ function Clients(){
                     <img src={ubereats} width={150}></img>
                 </li>
                 <li>
-                    <img src={amazon} width={130}></img>
+                    <img src={amazon} className={styles.amz} width={140}></img>
                 </li>
            </ul>
         </div>
