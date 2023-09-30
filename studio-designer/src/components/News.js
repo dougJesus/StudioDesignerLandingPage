@@ -1,9 +1,17 @@
 import styles from '../components/News.module.css'
+import Button from '../buttons/Button.js'
 
 function News(){
     return(
-        <div className={styles.news}>
-            <h1>aqui ficara newsletter</h1>
+        <div className={styles.newst}>
+            <div>
+                <h2>Subscribe Newsletter</h2>
+                <p>Subscribe Newsletter</p>
+            </div>
+            <div className={styles.but}>
+                <input placeholder="Enter your email address.."></input>
+                <Button/>
+            </div>
         </div>
     )
 }
