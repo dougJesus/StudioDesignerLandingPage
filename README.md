@@ -27,6 +27,8 @@ Meu processo para criação desse site foi:
 8. Agora começei o componente Video.js, onde adicionei mais uma imagem no projeto e dois textos ao lado.. estilizei com um tamaho padrão que ja venho utilizando do protótipo do figma e alinhei esses textos ao lado da imagem com um diplay flex seguido do justify-content space-evenly.E assim finalizando esse componente.
 
 9. Agora começei o componente Happy.js.. onde coloquei uma seção de clientes contentes.. adicionei mais duas imagens ao projeto e uns dois textos.. onde estilizei e utilizei as div para pode colocar cada coisa no seu devido lugar ..assim encerrando esse componente com sucesso.
+
+10. Por fim começei o penúltimo componente, o News.js... onde coloquei um input para receber um email para contato  e um botão de contato onde pode usar para enviar o emial em questão..estilizei conforme meu gosto e estilo que já tinha colocado nos componentes anteriores.. e finalizei esse componente passando para o último.
    
 
   
