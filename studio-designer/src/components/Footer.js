@@ -1,8 +1,12 @@
 import styles from '../components/Footer.module.css'
+import facebook from '../images/facebook.svg'
+import twitter from '../images/twitter.svg'
+import linkedin from '../images/linkedin.svg'
 
 function Footer(){
     return(
-        <div className={styles.footer}>
+        <div>
+            <div className={styles.footer}>
             <ul>What We Do
                 <li>Web Design </li>
                 <li>App Design</li>
@@ -23,7 +27,17 @@ function Footer(){
                 <li>WhatsApp</li>
                 <li>Support 24</li>
             </ul>    
+            </div>
+            <div className={styles.redes}>
+                <img src={facebook}></img>
+                <img src={twitter}></img>
+                <img src={linkedin}></img>
+            </div>
+            <div className={styles.text}>
+                <p>Copyright © 2023 Douglas Jesus</p>
+            </div>
         </div>
+        
     )
 }
 export default Footer

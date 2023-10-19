@@ -15,3 +15,17 @@
 .footer ul li:hover{
     color: rgb(195, 199, 202);;
 }
+.redes{
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 3rem;
+    margin-left: 12rem;
+}
+.redes img{
+    padding: 0.5rem;
+}
+.text p{
+    font-size: 14px;
+    color: #A4A4A4;
+    margin-top: 5.5rem;
+}
